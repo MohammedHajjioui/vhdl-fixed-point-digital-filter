@@ -40,8 +40,7 @@ Additional parametrized components include full adders, ripple-carry adders, sub
 ```text
 .
 ├── README.md
-├── docs/
-│   └── RelazioneHajjiouiMohammed.pdf
+├── RelazioneHajjiouiMohammed.pdf
 ├── src/
 │   └── *.vhd
 ├── tb/
@@ -62,7 +61,7 @@ Additional parametrized components include full adders, ripple-carry adders, sub
 
 The complete technical description, including equations, design choices, and simulation results, is available in the project report:
 
-[Read the complete project report (PDF)](docs/RelazioneHajjiouiMohammed.pdf)
+[Read the complete project report (PDF)](RelazioneHajjiouiMohammed.pdf)
 
 ## Author
 
