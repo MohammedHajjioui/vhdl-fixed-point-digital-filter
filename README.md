@@ -45,9 +45,6 @@ Additional parametrized components include full adders, ripple-carry adders, sub
 │   └── *.vhd
 ├── tb/
 │   └── filter_tb.vhd
-├── constraints/
-│   └── *.xdc
-└── .gitignore
 ```
 
 ## How to use
