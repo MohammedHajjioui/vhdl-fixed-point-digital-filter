@@ -56,7 +56,7 @@ Additional parametrized components include full adders, ripple-carry adders, sub
 
 ## Documentation
 
-The complete technical description, including equations, design choices, and simulation results, is available in the project report:
+The complete technical description, including equations, design choices, and simulation results, is available the project report in Italian:
 
 [Read the complete project report (PDF)](RelazioneHajjiouiMohammed.pdf)
 
